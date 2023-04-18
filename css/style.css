@@ -27,7 +27,6 @@ h3{
     width:30%;
     height:fit-content;
     float:left;
-    height: fit-content;
 }
 
 h1{
@@ -62,8 +61,10 @@ ul{
 
 @media (min-width:768px) and (max-width:991px){
     .menu{
-        width:46.3%;
+        width:45%;
+        margin:1%;
     }
+
     .menu#menuishaa{
         width:fit-content;
     }
